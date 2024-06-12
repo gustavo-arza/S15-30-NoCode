@@ -86,14 +86,14 @@ Ya sea que estés buscando un regalo único o deseando agregar un toque de calid
 
 ## Tecnologías
 Lista de tecnologías utilizadas en el proyecto:
-Figma
-Webflow
-Canvas
-Trello
-Drive
-Whatsapp
-Miro
-Meet
+Figma,
+Webflow,
+Canvas,
+Trello,
+Drive,
+Whatsapp,
+Miro,
+Meet.
 
 ### Herramientas de Comunicación
 https://www.figma.com/design/OkzTqr1zds3DfGpSMSdhu8/S15-30-NoCode?node-id=1-42&t=x319TlJlgUr4K5yo-1
