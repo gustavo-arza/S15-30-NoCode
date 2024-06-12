@@ -32,6 +32,7 @@ Ya sea que estés buscando un regalo único o deseando agregar un toque de calid
       <div align="center">
           <p style="margin-top: 1rem;"><strobg>Rivarola Ana Belen</strong></p>
         <a href="https://www.linkedin.com/in/guillermo-divan" target="_blank">
+         <img src="https://github.com/No-Country/c17-114-m-csharp/assets/88550405/b8c4cf9e-95a7-4b75-ab11-3dfccefd1324"/>
         </a>
       </div>
     </td>
@@ -39,6 +40,8 @@ Ya sea que estés buscando un regalo único o deseando agregar un toque de calid
       <div align="center">
           <p style="margin-top: 1rem;"><strong>Andres Grijalba</strong></p>
         <a href="https://www.linkedin.com/in/andr%C3%A9s-grijalba-fern%C3%A1ndez-2088a92ba/" target="_blank">
+          <img src="https://github.com/No-Country/c17-114-m-csharp/assets/88550405/b8c4cf9e-95a7-4b75-ab11-3dfccefd1324"/>
+        </a>
         </a>
       </div>
     </td>
@@ -46,6 +49,8 @@ Ya sea que estés buscando un regalo único o deseando agregar un toque de calid
       <div align="center">
           <p style="margin-top: 1rem;"><strong>Cristian Dal Piva</strong></p>
         <a href="https://www.linkedin.com/in/cristiandalpiva" target="_blank">
+          <img src="https://github.com/No-Country/c17-114-m-csharp/assets/88550405/b8c4cf9e-95a7-4b75-ab11-3dfccefd1324"/>
+        </a>
         </a>
       </div>
     </td>
@@ -53,6 +58,8 @@ Ya sea que estés buscando un regalo único o deseando agregar un toque de calid
       <div align="center">
           <p style="margin-top: 1rem;"><strong>Gustavo Arza</strong></p>
         <a href="https://www.linkedin.com/in/gustavoarza/" target="_blank">
+         <img src="https://github.com/No-Country/c17-114-m-csharp/assets/88550405/b8c4cf9e-95a7-4b75-ab11-3dfccefd1324"/>
+        </a>
         </a>
       </div>
     </td>
@@ -60,12 +67,16 @@ Ya sea que estés buscando un regalo único o deseando agregar un toque de calid
       <div align="center">
           <p style="margin-top: 1rem;"><strong>Tomas Crespo</strong></p>
         <a href="https://www.linkedin.com/in/tomascresporico/" target="_blank">
+         <img src="https://github.com/No-Country/c17-114-m-csharp/assets/88550405/b8c4cf9e-95a7-4b75-ab11-3dfccefd1324"/>
+        </a>
         </a>
       </div>
     </td>
       <div align="center">
           <p style="margin-top: 1rem;"><strong>Veronica Eschenmoser</strong></p>
         <a href="https://www.linkedin.com/in/veronica-eschenmoser-152969241" target="_blank">
+         <img src="https://github.com/No-Country/c17-114-m-csharp/assets/88550405/b8c4cf9e-95a7-4b75-ab11-3dfccefd1324"/>
+        </a>
         </a>
       </div>
     </td>
