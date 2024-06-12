@@ -80,7 +80,6 @@ Ya sea que estés buscando un regalo único o deseando agregar un toque de calid
         </a>
       </div>
     </td>
-    <td>
   </tr>
 </table>
 
