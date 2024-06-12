@@ -38,7 +38,6 @@ Ya sea que estés buscando un regalo único o deseando agregar un toque de calid
     <td>
       <div align="center">
           <p style="margin-top: 1rem;"><strong>Andres Grijalba</strong></p>
-          <p>FullStack Developer</p>
         <a href="https://www.linkedin.com/in/andr%C3%A9s-grijalba-fern%C3%A1ndez-2088a92ba/" target="_blank">
         </a>
       </div>
@@ -82,6 +81,8 @@ Canvas
 Trello
 Drive
 Whatsapp
+Miro
+Meet
 
 ### Herramientas de Comunicación
 https://www.figma.com/design/OkzTqr1zds3DfGpSMSdhu8/S15-30-NoCode?node-id=1-42&t=x319TlJlgUr4K5yo-1
