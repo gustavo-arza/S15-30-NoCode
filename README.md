@@ -1,7 +1,7 @@
 # Arte-Sana
 
 ## Inicio
-¡Bienvenido a ARTE-SANA! En nuestra tienda, celebramos la belleza natural y la artesanía tradicional que se refleja en cada pieza que creamos. Desde la suave curva de un candelabro hasta la complejidad de un mueble tallado a mano, cada artículo cuenta una historia única.
+¡Bienvenido a ARTE·SANA! En nuestra tienda, celebramos la belleza natural y la artesanía tradicional que se refleja en cada pieza que creamos. Desde la suave curva de un candelabro hasta la complejidad de un mueble tallado a mano, cada artículo cuenta una historia única.
 Sumérgete en un viaje visual a través de nuestros Catalogo virtuales, donde encontrarás una amplia gama de productos cuidadosamente seleccionados. Desde encantadores adornos para el hogar hasta muebles, cada elemento está imbuido con el carácter y la calidez de la madera natural.
 Nos enorgullece no solo en la calidad de nuestras creaciones, sino también en el proceso detrás de cada obra maestra. Nuestros artesanos, con sus manos hábiles y su amor por la madera, dan vida a cada pieza con dedicación y pasión. Cada veta, cada textura cuenta una historia de la naturaleza, y es nuestro privilegio ofrecerte una ventana a este mundo de creatividad y belleza.
 Ya sea que estés buscando un regalo único o deseando agregar un toque de calidez y autenticidad a tu hogar, estamos aquí para ayudarte a encontrar la pieza perfecta. Explora nuestro catálogo hoy mismo y descubre la magia de las artesanías en madera. ¡Bienvenido a nuestro oasis de creatividad y tradición!
@@ -89,10 +89,11 @@ Lista de tecnologías utilizadas en el proyecto:
 Figma,
 Webflow,
 Canvas,
+Miro,
 Trello,
 Drive,
 Whatsapp,
-Miro,
+
 Meet.
 
 ### Herramientas de Comunicación
@@ -101,7 +102,7 @@ https://www.figma.com/design/OkzTqr1zds3DfGpSMSdhu8/S15-30-NoCode?node-id=1-42&t
 ### Herramientas de Organización
 https://www.canva.com/design/DAGF_VKZXxk/0M9ufo-ChvWmO9WAHwmUbQ/view?utm_content=DAGF_VKZXxk&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
-## Enlaces del Proyecto
+## Enlace del Proyecto
 https://todanota-9dea93.webflow.io/
 
 Enlaces relevantes al repositorio en GitHub, al sitio web (si corresponde) y otros enlaces importantes.
